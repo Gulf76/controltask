@@ -1,0 +1,15 @@
+C:\Users\akim\Desktop\HOMECONTROL\tosolvetask\bin\Debug\net6.0\tosolvetask.exe
+C:\Users\akim\Desktop\HOMECONTROL\tosolvetask\bin\Debug\net6.0\tosolvetask.deps.json
+C:\Users\akim\Desktop\HOMECONTROL\tosolvetask\bin\Debug\net6.0\tosolvetask.runtimeconfig.json
+C:\Users\akim\Desktop\HOMECONTROL\tosolvetask\bin\Debug\net6.0\tosolvetask.dll
+C:\Users\akim\Desktop\HOMECONTROL\tosolvetask\bin\Debug\net6.0\tosolvetask.pdb
+C:\Users\akim\Desktop\HOMECONTROL\tosolvetask\obj\Debug\net6.0\tosolvetask.csproj.AssemblyReference.cache
+C:\Users\akim\Desktop\HOMECONTROL\tosolvetask\obj\Debug\net6.0\tosolvetask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akim\Desktop\HOMECONTROL\tosolvetask\obj\Debug\net6.0\tosolvetask.AssemblyInfoInputs.cache
+C:\Users\akim\Desktop\HOMECONTROL\tosolvetask\obj\Debug\net6.0\tosolvetask.AssemblyInfo.cs
+C:\Users\akim\Desktop\HOMECONTROL\tosolvetask\obj\Debug\net6.0\tosolvetask.csproj.CoreCompileInputs.cache
+C:\Users\akim\Desktop\HOMECONTROL\tosolvetask\obj\Debug\net6.0\tosolvetask.dll
+C:\Users\akim\Desktop\HOMECONTROL\tosolvetask\obj\Debug\net6.0\refint\tosolvetask.dll
+C:\Users\akim\Desktop\HOMECONTROL\tosolvetask\obj\Debug\net6.0\tosolvetask.pdb
+C:\Users\akim\Desktop\HOMECONTROL\tosolvetask\obj\Debug\net6.0\tosolvetask.genruntimeconfig.cache
+C:\Users\akim\Desktop\HOMECONTROL\tosolvetask\obj\Debug\net6.0\ref\tosolvetask.dll
